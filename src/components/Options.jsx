@@ -75,7 +75,7 @@ export default function CustomizedMenus() {
         disableElevation
         onClick={handleClick}
         endIcon={<KeyboardArrowDownIcon />}
-        sx={{bgcolor:green[900]}}
+        sx={{bgcolor:'#2e3944'}}
         style={{textAlign:'center'}}
       >
         Pocasi

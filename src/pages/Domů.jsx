@@ -11,16 +11,14 @@ import { green } from '@mui/material/colors'
 import Prihlasit from '../components/Prihlasit'
 import Button from '../components/Button'
 
-
 function Domů() {
   return (
     <div>
       <Navbar />
-      <img src={Logo} style={{width:1920}}/>
+      <p className='squere'></p>
+      <p className='squere2'></p>
       <Paper elevation={10}>
-      <Box sx={{bgcolor:green[900]}}>
-      <h2 style={{textAlign:'center', color:'white'}}>AKTUALITY</h2>
-      </Box>
+      <h2 style={{textAlign:'center', color:'#124e66'}}>AKTUALITY</h2>
       </Paper>
       <Paper>
       <GridBox />
