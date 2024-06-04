@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.AppBar {
+  background-color: #2b5430;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
