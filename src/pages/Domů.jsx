@@ -10,24 +10,25 @@ import { Box } from '@mui/material'
 import { green } from '@mui/material/colors'
 import Prihlasit from '../components/Prihlasit'
 import Button from '../components/Button'
+import Spline from '@splinetool/react-spline';
 
 function Domů() {
   return (
     <div>
       <Navbar />
-      <p className='squere'></p>
-      <p className='squere2'></p>
+      <Spline scene="https://prod.spline.design/YiaI5eVxFyGbTANI/scene.splinecode" />
+      <Box className='squere2'></Box>
       <Paper elevation={10}>
       <h2 style={{textAlign:'center', color:'#124e66'}}>AKTUALITY</h2>
       </Paper>
       <Paper>
       <GridBox />
       </Paper>
-      <Box sx={{bgcolor:green[900]}}>
+      <Box className='footer' sx={{bgcolor:'#2e3944', justifyContent:'center'}}>
       <h2 style={{textAlign:'center', color:'white'}}>Napište nám<br /> <Prihlasit /></h2>
       </Box>
-      <Box sx={{bgcolor:green[900]}}>
-      <h5 style={{textAlign:'center', color:'white'}}>@David F.<br /> Jiri T. <br /> Petr C.</h5>
+      <Box  className='footer2' sx={{bgcolor:'#124e66', justifyContent:'center'}}>
+      <p style={{textAlign:'center', color:'white'}}>@David F.<br /> Jiri T. <br /> Petr C.</p>
       </Box>
     </div>
   )
