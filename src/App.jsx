@@ -7,6 +7,7 @@ import Dokumenty from'./pages/Dokumenty'
 import OObci from'./pages/OObci'
 import ÚzemníPlányObceDobřeň from'./pages/ÚzemníPlányObceDobřeň'
 import Fotogalerie from'./pages/Fotogalerie'
+import Spline from '@splinetool/react-spline';
 
 function App() {
   return (

@@ -1,4 +1,5 @@
 import React from "react";
+import Spline from '@splinetool/react-spline';
 import Navbar from "../components/Navbar";
 import GridBox from "../components/GridBox";
 import Pocasi from "../components/Pocasi";
@@ -13,15 +14,13 @@ import Button from "../components/Button";
 import Hrad from "../assets/hrad-kokorin-12.jpg";
 import GridBox2 from "../components/GridBox2";
 import GridBox3 from "../components/GridBox3";
-
+import '../index.css'
 function OObci() {
   return (
-    <div>
-      <div>
+    <div style={{backgroundColor:""}} >
         <Navbar />
-        <h2>ahoj</h2>
-        <Box sx={{ bgcolor: green[900] }}>
-          <h2 style={{ textAlign: "center", color: "white" }}>
+        <h1>ahoj</h1>
+        <h2 style={{ textAlign: "center", color: "white" }}>
             O obci
             <br />
           </h2>
@@ -38,15 +37,11 @@ function OObci() {
             plodinami, rolník, nákladní autodoprava, 4 obchody s ovocem, kovář,
             krejčí, 3 obuvníci, trafika, kolář, výroba cementového zboží.
           </h5>
-        </Box>
-        <Box sx={{ bgcolor: green[900] }}>
           <h2 style={{ textAlign: "center", color: "white" }}>Památky</h2>
-        </Box>
-        <Box sx={{ bgcolor: green[900] }}>
+          
           <h2 style={{ textAlign: "center", color: "white" }}>Hrad Kokořín</h2>
           <GridBox2 />
-        </Box>
-        <Box sx={{ bgcolor: green[900] }}>
+        
           <h2 style={{ textAlign: "center", color: "white" }}>Skalní stůl na Kokořínsku</h2>
           <h5 style={{ color: "white", padding: 15}}>
             Hrad Kokořín se rozkládá na pískovcových skalách Kokořínského dolu.
@@ -55,20 +50,12 @@ function OObci() {
             malebná stavení lidové architektury.
           </h5>
           <GridBox3 />
-        </Box>
-        <Box sx={{ bgcolor: green[900] }}>
-          <h2 style={{ textAlign: "center", color: "white" }}>
-            Napište nám
-            <br /> <Prihlasit />
-          </h2>
-        </Box>
-        <Box sx={{ bgcolor: green[900] }}>
-          <h5 style={{ textAlign: "center", color: "white" }}>
-            @David F.
-            <br /> Jiri T. <br /> Petr C.
-          </h5>
-        </Box>
-      </div>
+          <Box className='footer' sx={{bgcolor:'#2e3944', justifyContent:'center'}}>
+      <h2 style={{textAlign:'center', color:'white'}}>Napište nám<br /> <Prihlasit /></h2>
+      </Box>
+      <Box  className='footer2' sx={{bgcolor:'#124e66', justifyContent:'center'}}>
+      <p style={{textAlign:'center', color:'white'}}>@David F.<br /> Jiri T. <br /> Petr C.</p>
+      </Box>
     </div>
   );
 }

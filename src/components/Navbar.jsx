@@ -20,29 +20,8 @@ import Options from '../components/Options'
 import { Link } from 'react-router-dom';
 import '../styles/Navbar.css'
 
-const theme = createTheme({
-  palette: {
-    primary: {
-      light: '#757ce8',
-      main: '#3f50b5',
-      dark: '#002884',
-      contrastText: '#fff',
-    },
-    secondary: {
-      light: '#ff7961',
-      main: '#f44336',
-      dark: '#ba000d',
-      contrastText: '#000',
-    },
-
-    green: {
-      green: '#1b5e20'
-    }
-  },
-});
-
 const drawerWidth = 240;
-const navItems = [<Button />, <a href="Domů">Domů</a>, <a href="OObci">O Obci</a>, <a href="Dokumenty">Dokumenty</a>, <a href="Územní Plány obce Dobřeň">Územní Plány obce Dobřeň</a>, <a href="Fotogalerie">Fotogalerie</a>, <Options />];
+const navItems = [<Button />, <a href="Domů">Domů</a>, <a href="OObci">O Obci</a>, <a href="Dokumenty">Dokumenty</a>, <a href="https://gis.kr-stredocesky.cz/js/reg_up/?extent=-735315.9615%2C-1005398.2856%2C-719145.9082%2C-997613.297%2C102067">Územní Plány obce Dobřeň</a>, <a href="Fotogalerie">Fotogalerie</a>, <Options />];
 
 function DrawerAppBar(props) {
   const { window } = props;
