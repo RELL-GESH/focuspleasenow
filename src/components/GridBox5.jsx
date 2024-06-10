@@ -17,46 +17,19 @@ function GridBox() {
             <br />
             (30.4.2024)
             <br />
-            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Nařízení Středočeského kraje o stanovení podmínek k zabezpečení požární ochrany v době zvýšeného nebezpečí vzniku požáru</a>
+            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19922">Nařízení Středočeského kraje o stanovení podmínek k zabezpečení požární ochrany v době zvýšeného nebezpečí vzniku požáru</a>
             <br />
             [PDF, 80 kB]
             <br />
             (30.4.2024)
             <br />
-            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Oznámení o zahájení správního řízení - Veřejná vyhláška</a>
+            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19852">Oznámení o zahájení správního řízení - Veřejná vyhláška</a>
             <br />
             [PDF, 80 kB]
             <br />
             (30.4.2024)
             <br />
-            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Veřejná vyhláška - Opatření obecné povahy</a>
-            <br />
-            [PDF, 80 kB]
-            <br />
-            (30.4.2024)
-          </Paper>
-        </Grid>
-        <Grid item xs={12} sm={6} md={3}>
-          <Paper elevation={10}>
-          <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Veřejná vyhláška</a>
-            <br />
-            [PDF, 80 kB]
-            <br />
-            (30.4.2024)
-            <br />
-            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Nařízení Středočeského kraje o stanovení podmínek k zabezpečení požární ochrany v době zvýšeného nebezpečí vzniku požáru</a>
-            <br />
-            [PDF, 80 kB]
-            <br />
-            (30.4.2024)
-            <br />
-            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Oznámení o zahájení správního řízení - Veřejná vyhláška</a>
-            <br />
-            [PDF, 80 kB]
-            <br />
-            (30.4.2024)
-            <br />
-            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Veřejná vyhláška - Opatření obecné povahy</a>
+            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19850">Veřejná vyhláška - Opatření obecné povahy</a>
             <br />
             [PDF, 80 kB]
             <br />
@@ -71,19 +44,19 @@ function GridBox() {
             <br />
             (30.4.2024)
             <br />
-            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Nařízení Středočeského kraje o stanovení podmínek k zabezpečení požární ochrany v době zvýšeného nebezpečí vzniku požáru</a>
+            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19922">Nařízení Středočeského kraje o stanovení podmínek k zabezpečení požární ochrany v době zvýšeného nebezpečí vzniku požáru</a>
             <br />
             [PDF, 80 kB]
             <br />
             (30.4.2024)
             <br />
-            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Oznámení o zahájení správního řízení - Veřejná vyhláška</a>
+            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19852">Oznámení o zahájení správního řízení - Veřejná vyhláška</a>
             <br />
             [PDF, 80 kB]
             <br />
             (30.4.2024)
             <br />
-            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Veřejná vyhláška - Opatření obecné povahy</a>
+            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19850">Veřejná vyhláška - Opatření obecné povahy</a>
             <br />
             [PDF, 80 kB]
             <br />
@@ -98,19 +71,46 @@ function GridBox() {
             <br />
             (30.4.2024)
             <br />
-            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Nařízení Středočeského kraje o stanovení podmínek k zabezpečení požární ochrany v době zvýšeného nebezpečí vzniku požáru</a>
+            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19922">Nařízení Středočeského kraje o stanovení podmínek k zabezpečení požární ochrany v době zvýšeného nebezpečí vzniku požáru</a>
             <br />
             [PDF, 80 kB]
             <br />
             (30.4.2024)
             <br />
-            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Oznámení o zahájení správního řízení - Veřejná vyhláška</a>
+            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19852">Oznámení o zahájení správního řízení - Veřejná vyhláška</a>
             <br />
             [PDF, 80 kB]
             <br />
             (30.4.2024)
             <br />
-            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Veřejná vyhláška - Opatření obecné povahy</a>
+            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19850">Veřejná vyhláška - Opatření obecné povahy</a>
+            <br />
+            [PDF, 80 kB]
+            <br />
+            (30.4.2024)
+          </Paper>
+        </Grid>
+        <Grid item xs={12} sm={6} md={3}>
+          <Paper elevation={10}>
+          <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19926">Veřejná vyhláška</a>
+            <br />
+            [PDF, 80 kB]
+            <br />
+            (30.4.2024)
+            <br />
+            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19922">Nařízení Středočeského kraje o stanovení podmínek k zabezpečení požární ochrany v době zvýšeného nebezpečí vzniku požáru</a>
+            <br />
+            [PDF, 80 kB]
+            <br />
+            (30.4.2024)
+            <br />
+            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19852">Oznámení o zahájení správního řízení - Veřejná vyhláška</a>
+            <br />
+            [PDF, 80 kB]
+            <br />
+            (30.4.2024)
+            <br />
+            <a href="https://www.obecdobren.cz/assets/File.ashx?id_org=2771&id_dokumenty=19850">Veřejná vyhláška - Opatření obecné povahy</a>
             <br />
             [PDF, 80 kB]
             <br />
