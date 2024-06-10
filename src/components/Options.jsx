@@ -78,7 +78,7 @@ export default function CustomizedMenus() {
         sx={{bgcolor:'#2e3944'}}
         style={{textAlign:'center'}}
       >
-        Pocasi
+        Počasí
       </Button>
       <StyledMenu
         id="demo-customized-menu"

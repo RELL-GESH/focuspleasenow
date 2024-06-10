@@ -21,7 +21,7 @@ import { Link } from 'react-router-dom';
 import '../styles/Navbar.css'
 
 const drawerWidth = 240;
-const navItems = [<Button />, <a href="Domů">Domů</a>, <a href="OObci">O Obci</a>, <a href="Dokumenty">Dokumenty</a>, <a href="https://gis.kr-stredocesky.cz/js/reg_up/?extent=-735315.9615%2C-1005398.2856%2C-719145.9082%2C-997613.297%2C102067">Územní Plány obce Dobřeň</a>, <a href="Fotogalerie">Fotogalerie</a>, <Options />];
+const navItems = [<Button />, <a href="Domů">Domů</a>, <a href="OObci">O Obci</a>, <a href="Dokumenty">Dokumenty</a>, <a href="https://gis.kr-stredocesky.cz/js/reg_up/?extent=-735315.9615%2C-1005398.2856%2C-719145.9082%2C-997613.297%2C102067">Územní Plány obce Dobřeň</a>, <a href="Fotogalerie"><a href="https://www.google.com/maps/place/Dob%C5%99e%C5%88/@50.4795699,14.5554433,1659m/data=!3m1!1e3!4m6!3m5!1s0x47095e2bcb589fa5:0x46625fe84c9a6b84!8m2!3d50.4794052!4d14.5567115!16s%2Fm%2F06w8vfl?entry=ttu">Mapy</a></a>, <Options />];
 
 function DrawerAppBar(props) {
   const { window } = props;

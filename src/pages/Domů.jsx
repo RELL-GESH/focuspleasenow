@@ -19,10 +19,13 @@ function Domů() {
       <Spline scene="https://prod.spline.design/YiaI5eVxFyGbTANI/scene.splinecode" />
       <Box className='squere2'></Box>
       <Paper elevation={10}>
+        <br />
       <h2 style={{textAlign:'center', color:'#124e66'}}>AKTUALITY</h2>
       </Paper>
       <Paper>
       <GridBox />
+      <br />
+      <br />
       </Paper>
       <Box className='footer' sx={{bgcolor:'#2e3944', justifyContent:'center'}}>
       <h2 style={{textAlign:'center', color:'white'}}>Napište nám<br /> <Prihlasit /></h2>
