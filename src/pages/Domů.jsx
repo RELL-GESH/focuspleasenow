@@ -31,7 +31,8 @@ function Domů() {
       <h2 style={{textAlign:'center', color:'white'}}>Napište nám<br /> <Prihlasit /></h2>
       </Box>
       <Box  className='footer2' sx={{bgcolor:'#124e66', justifyContent:'center'}}>
-      <p style={{textAlign:'center', color:'white'}}>@David F.<br /> Jiri T. <br /> Petr C.</p>
+      <p style={{textAlign:'center', color:'white'}}>@David F.<br /> Jiri T. <br /> Petr C. <br />Telefon: 315 672 031<br />
+E-mail: oudobren@seznam.cz</p>
       </Box>
     </div>
   )
